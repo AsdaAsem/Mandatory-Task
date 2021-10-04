@@ -1,6 +1,4 @@
 # Responsive-web-design-Website
-**Mandatory Task!**
-
 
 
 The task is to completely modify/customize this bootstrap project. i USED MY creativity to write MY first very own website with Responsive web design(RWD).
